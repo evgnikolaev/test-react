@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82269ca3-6851-4e73-931d-30bb0c2a8e13" name="Default Changelist" comment="" />
+    <list default="true" id="82269ca3-6851-4e73-931d-30bb0c2a8e13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bitrixlangplugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1_введение.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2_компоненты.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/PostService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppRouter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ClassCounter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostFilter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/MyModal/MyModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/MyModal/MyModal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/button/MyButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/button/MyButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/input/MyInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/input/MyInput.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/loader/loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/pagination/Pagination.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/select/MySelect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useFetching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useObserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/usePost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PostIdPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/pages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,18 +67,33 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/../bxApiDocs/modules" />
     </include_path>
   </component>
   <component name="ProjectId" id="2BybLJ2gDiX5tT2vl5WgXazNlQv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/UI/MyModal" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\e.nikolaev\PhpstormProjects\test-react\src\components\UI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\e.nikolaev\PhpstormProjects\test-react\src\components\UI\MyModal" />
+      <recent name="C:\Users\e.nikolaev\PhpstormProjects\test-react\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,11 +121,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657881214248</updated>
-      <workItem from="1657881215436" duration="2454000" />
+      <workItem from="1657881215436" duration="10031000" />
+      <workItem from="1658129250101" duration="2602000" />
+      <workItem from="1658134267574" duration="17000" />
+      <workItem from="1658144870016" duration="9129000" />
+      <workItem from="1658209142754" duration="4607000" />
+      <workItem from="1658216965628" duration="17294000" />
+      <workItem from="1658295289526" duration="4428000" />
+      <workItem from="1658303960333" duration="6772000" />
+      <workItem from="1658321509437" duration="4033000" />
+      <workItem from="1658391767852" duration="45000" />
+      <workItem from="1658406235546" duration="5237000" />
+      <workItem from="1658486536991" duration="2430000" />
+      <workItem from="1658496823463" duration="4172000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
